@@ -1,0 +1,9 @@
+{
+    "name": "turretautofill-mobile",
+    "displayName": "Turret Auto Fill (mobile)",
+    "author": "GerMax",
+    "description": "Mobile version of Turret Auto Fill: an on-screen button (movable, resizable) and ammo priority settings. Works on any server, only you need the mod. Languages: English / Русский.\n\nМобильная версия Turret Auto Fill: кнопка на экране (можно двигать и менять размер) и настройка приоритета патронов. Работает на любых серверах, мод нужен только вам.\n\nOriginal by Vini230909",
+    "version": "0.5.3",
+    "minGameVersion": "146",
+    "hidden": true
+}
