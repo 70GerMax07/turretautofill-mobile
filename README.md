@@ -15,3 +15,4 @@
 - Языки: English / Русский (переключается в настройках).
 
 Original idea: Vini230909.
+https://github.com/vini230909/turretautofill
